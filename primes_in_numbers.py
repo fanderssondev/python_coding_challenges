@@ -23,6 +23,7 @@ def check_result[T](func: T, expected_result: T) -> None:
 # Example: n = 86240 should return "(2**5)(5)(7**2)(11)"
 
 
+# TODO Not implemented
 def prime_factors(n: int) -> str:
     return str((2**5) * (5) * (7**2) * (11))
 

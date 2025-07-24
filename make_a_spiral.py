@@ -44,6 +44,7 @@ def check_result[T](func: T, expected_result: T) -> None:
 # General rule-of-a-thumb is, that the snake made with '1' cannot touch to itself.
 
 
+# TODO Not implemented
 def spiralize(size: int) -> list[int]:
 
     return []
